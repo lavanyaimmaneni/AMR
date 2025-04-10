@@ -8,7 +8,7 @@ This simulation models a vehicle navigating a 2D environment with static obstacl
 
 ## 🧠 Core Features
 
-- **Path Planning** using algorithms like A*, Dijkstra, or custom heuristics
+- **Path Planning** using algorithms like A*
 - **Obstacle Detection & Avoidance** in a simulated environment
 - **Dynamic Route Recalculation** on encountering new obstacles
 - Visualization of path, obstacles, and vehicle movement
